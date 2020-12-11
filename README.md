@@ -40,10 +40,8 @@ This a project made for my post on Dev.to(link) , here i´ll show you the approa
 
 ### Built With
 
-* [Next.js]()
-* [JsPDF]()
-* []()
-
+* [Next.js](https://nextjs.org/)
+* [JsPDF](https://github.com/MrRio/jsPDF)
 
 
 <!-- GETTING STARTED -->
