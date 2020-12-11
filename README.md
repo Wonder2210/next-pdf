@@ -79,5 +79,5 @@ yarn run dev
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) 
+Wonder Gonzalez - [@WonDErV14](https://twitter.com/WonDErV14?s=09) 
 
