@@ -1,83 +1,36 @@
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-    <h3 align="center">Next.js PDF</h3>
-</p>
+# Next.js PDF (post)
 
+This project was Created to ilustrate my [post](https://dev.to/wonder2210/generating-pdf-files-using-next-js-24dm) about generating PDF files with
+next.js
+## Run Locally
 
+Clone the project
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-This a project made for my post on Dev.to(link) , here i´ll show you the approach i use to generate pdf´s with next.js
-
-
-### Built With
-
-* [Next.js](https://nextjs.org/)
-* [JsPDF](https://github.com/MrRio/jsPDF)
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* yarn
-* node v10 or latest
- 
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Wonder2210/next-pdf.git
-   ```
-2. Install NPM packages
-   ```sh
-   yarn install
-   ```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-start the project using:
-
-```sh
-yarn run dev
+```bash
+git clone https://github.com/Wonder2210/next-pdf.git 
 ```
 
-<!-- CONTACT -->
-## Contact
+Go to the project directory
 
-Wonder Gonzalez - [@WonDErV14](https://twitter.com/WonDErV14?s=09) 
+```bash
+  cd next-pdf
+```
+
+Install dependencies
+
+```bash
+  yarn install
+```
+
+Start the project
+
+```bash
+  yarn dev
+```
+
+
+## Documentation
+You can learn more about the project on
+[Generating PDF files using Next.js](https://dev.to/wonder2210/generating-pdf-files-using-next-js-24dm)
 
